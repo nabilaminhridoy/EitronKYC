@@ -91,13 +91,12 @@ npm run build
 
 # Start production server
 npm start
-
-Open http://localhost:3000
- to see your application running
 ```
 
+> 🖥️ Open [**http://localhost:3000**](http://localhost:3000) to see your application running.
 
-📁 Project Structure
+
+## 📁 Project Structure
 ```
 src/
 ├── app/                 # Next.js App Router pages
@@ -146,4 +145,5 @@ src/
 - Deploy confidently with production-ready configuration.
 
 <h3 align="center">🧠 Built with ❤️ by <a href="https://github.com/nabilaminhridoy">Nabil Amin Hridoy</a></h3> <p align="center"> © 2025 EitronKYC — All Rights Reserved </p>
+
 
