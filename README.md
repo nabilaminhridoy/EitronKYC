@@ -39,7 +39,6 @@
 - 🎣 **React Hook Form** — Performant forms with easy validation  
 - ✅ **Zod** — TypeScript-first schema validation  
 
----
 
 ### 🔄 State Management & Data Fetching
 - 🐻 **Zustand** — Simple, scalable state management  
@@ -94,7 +93,9 @@ npm run build
 npm start
 
 Open http://localhost:3000
- to see your application running.
+ to see your application running
+```
+
 
 📁 Project Structure
 ```
@@ -144,4 +145,5 @@ src/
 - Start building your app with reusable components and best practices.
 - Deploy confidently with production-ready configuration.
 
-<h3 align="center">🧠 Built with ❤️ by <a href="https://github.com/nabilaminhridoy">Nabil Amin Hridoy</a></h3> <p align="center"> © 2025 — All Rights Reserved </p>
+<h3 align="center">🧠 Built with ❤️ by <a href="https://github.com/nabilaminhridoy">Nabil Amin Hridoy</a></h3> <p align="center"> © 2025 EitronKYC — All Rights Reserved </p>
+
